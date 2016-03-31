@@ -24,7 +24,7 @@ int[] diametros = {24, 48, 71, 95, 142, 189};
 
 void setup() {
   //size(910, 620);
-  size(10749, 7323, PDF, "herman_de_vries_dot.pdf");
+  size(10749, 7323, PDF, "herman_de_vries_circle.pdf");
   noStroke();
   background(255);
 
